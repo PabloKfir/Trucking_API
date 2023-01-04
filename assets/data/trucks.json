@@ -1,0 +1,123 @@
+[
+    {
+        "id": 0,
+        "brand": "International",
+        "market": "North America",
+        "model": "LT Series",
+        "axle": ["4x2", "6x2", "6x4"],
+        "cab": ["Day Cab", "56\" Low Roof Sleeper", "56\" Hi-Rise Sleeper", "73\" Hi-Rise Sleeper", "73\" Sky-Rise Sleeper"],
+        "engine": ["International A26","Cummins X15"],
+        "exhaust": ["Single canister after-treatment device, frame mounted right side under cab.", "Horizontal or vertical back of cab single exhaust or dual B-pillar vertical exhaust."],
+        "transmissions": ["Eaton Endurant: 11, 12 speed Automated Manual", "Eaton Fuller UltraShift PLUS: 13, 18 speed Automated Manual", "Eaton Fuller Advantage: 10 speed Automated Manual", "Eaton Fuller Advantage: 10 speed Manual", "Eaton Fuller: 10 speed Manual", "Fuller: 9, 10, 13, 15, 18 speed Manual"],
+        "img": "international_lt.jpg"
+    },
+    {
+        "id": 1,
+        "brand": "International",
+        "market": "North America",
+        "model": "RH Series",
+        "axle": ["4x2","6x2","6x4"],
+        "cab": ["Day Cab","56\" Hi-Rise Sleeper","56\" Low Roof Sleeper"],
+        "engine": "International A26",
+        "exhaust": ["Single canister after-treatment device, frame mounted right side under cab."],
+        "transmissions": ["Allison 3000 RDS: 6 speed Automatic", "Allison 3000 HS: 6 speed Automatic", "Allison 3414 RHS: 6 speed Automatic", "Eaton Endurant: 11, 12 speed Automated Manual","Eaton Fuller UltraShift PLUS: 13, 18 speed Automated Manual","Eaton Fuller UltraShift PLUS: 16 speed Automated Manual","Eaton Fuller Advantage: 10 speed Automated Manual","Eaton Fuller Advantage: 10 speed Manual","Fuller: 10, 13, 15, 18 speed Manual"],
+        "img": "international_rh.jpg"
+    },
+    {
+        "id": 2,
+        "brand": "International",
+        "market": "North America",
+        "model": "Lonestar",
+        "axle": "6x4 SBA",
+        "cab": ["Day Cab","56\" Low Roof Sleeper","56\" Hi-Rise Sleeper","73\" Hi-Rise Sleeper","73\" Sky-Rise Sleeper"],
+        "engine": "Cummins X15",
+        "exhaust": ["Single canister after-treatment device, frame mounted right side under cab or Under Sleeper","Dual B-pillar vertical tailpipe"],
+        "transmissions": ["Eaton Fuller Advantage: 10 speed Automated Manual","Eaton Fuller UltraShift PLUS: 13, 18 speed Automated Manual","Eaton Fuller UltraShift PLUS LSE: 16 speed Automated Manual","Eaton UltraShift PLUS: 10, 13, 16, 18 speed Automated Manual","Eaton Fuller Advantage: 10 speed Manual","Eaton Fuller: 10 speed Manual","Fuller: 9, 10, 13, 15, 18 speed Manual"],
+        "img": "international_lonestar.jpg"
+    },
+    {
+        "id": 3,
+        "brand": "Peterbilt",
+        "market": "North America",
+        "model": "389",
+        "axle": ["4x2", "6x2","6x4"],
+        "cab": ["44\" Low Roof Sleeper","58\" Low Roof Sleeper", "72\" Low Roof Sleeper", "58\" UltraCab", "72\" UltraCab", "78\" UltraCab"],
+        "engine": ["Paccar MX-13","Cummins ISX15"],
+        "exhaust": ["Single (Vertical)", "Dual (Vertical)"],
+        "transmissions": ["Fuller: 9, 10, 13, 15, 18 speed Manual", "Eaton Fuller 10, 11, 13 or 18 Speed Automated"],
+        "img": "peterbilt_389.jpg"
+    },
+
+    {
+        "id": 4,
+        "brand": "Freightliner",
+        "market": "North America",
+        "model": "M2-112 Plus",
+        "axle": ["4x2","6x2"],
+        "cab": ["112\" Day Cab", "132\" Extended Cab","160\" Crew Cab"],
+        "engine": ["Detroit DD13 Gen5", "Cummins L9", "Cummins L9N"],
+        "exhaust": ["Base"],
+        "transmissions": ["Eaton Fuller Manual", "Eaton Fuller UltraShift PLUS Automated Manual", "Alisson 3000 Series Automatic", "Allison 4000 Series Automatic"],
+        "img":  "freightliner_m2.jpg" 
+    },
+    {
+        "id": 5,
+        "brand": "Freightliner",
+        "market": "North America",
+        "model": "Cascadia",
+        "axle": ["4x2", "6x2","6x4"],
+        "cab": ["119\" Day Cab", "126\" Day Cab", "116\" Sleeper Cab Mid Roof XT", "116\" Sleeper Cab Raised Roof"],
+        "engine": ["Detroit DD13 Gen5", "Detroit DD15 Gen5", "Detroit DD16", "Cummins X12", "Cummins X15"],
+        "exhaust": "Base",
+        "transmissions": ["Eaton Fuller Advantage Manual","Detroit DT12 Automated Manual", "Eaton Cummins Endurant Automated Manual", "Allison 3000 Series Automatic", "Allison 3414 Series Automatic", "Allison 4000 Series Automatic", "Allison 4500 Series Automatic"],
+        "img": "freightliner_cascadia.jpg"
+    },
+    {
+        "id": 6,
+        "brand": "Volvo",
+        "market": ["Europe", "Latin America"],
+        "model": "FH",
+        "axle": ["4x2","6x2","6x4","8x4"],
+        "cab": ["Low sleeper cab", "Sleeper cab", "Globetrotter cab", "Globetrotter XL cab","Globetrotter XXL cab"],
+        "engine": ["D13K420","D13K460","D13K460TC","D13K500","D13K500TC","D13k540","G13C420","G13C460"],
+        "exhaust": "Single (Vertical)",
+        "transmissions": "I-Shift",
+        "img": "volvo_fh.jpg"
+    },
+    {
+        "id": 7,
+        "brand": "Volvo",
+        "market": ["Europe", "Latin America"],
+        "model": "FM",
+        "axle": ["4x2","6x2","6x4","8x4"],
+        "cab": ["Low day cab","Day cab","Low sleeper cab","Sleeper cab","Globetrotter cab","Crew cab"],
+        "engine": ["D11K333","D11K380","D11K430","D11K460","D13K420","D13K460","D13K500","G13C420","G13C460"],
+        "exhaust": "Single (Vertical)",
+        "transmissions": "I-Shift",
+        "img": "volvo_fm.jpg"
+    },
+    {
+        "id": 8,
+        "brand": "Scania",
+        "market": ["Europe", "Latin America"],
+        "model": "S Series",
+        "axle": ["4x2","4x4","6x2","6x4","6x6"],
+        "cab": ["S-Sleeper nomal","S-Sleeper highline"],
+        "engine": ["Euro 6 13 Litre","Euro 6 16 Litre"],
+        "exhaust": "Base",
+        "transmissions": ["Range-Change Gearbox", "Range-Splitter Gearbox", "Opticruise Gearbox"],
+        "img": "scania_s.jpg"
+    },
+    {
+        "id": 9,
+        "brand": "Scania",
+        "market": ["Europe", "Latin America"],
+        "model": "R Series",
+        "axle": ["4x2","4x4","6x2","6x4","6x6"],
+        "cab": ["R-Day low","R-Day normal","R-Sleeper low","R-Sleeper normal","R-Sleeper Highline"],
+        "engine": ["Euro 6 9 Litre","Euro 6 13 Litre","Euro 6 16 Litre"],
+        "exhaust": "Base",
+        "transmissions": ["Range-Change Gearbox","Range-Splitter Gearbox","Opticruise Gearbox"],
+        "img": "scania_r.jpg"
+    }
+]

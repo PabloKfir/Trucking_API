@@ -1,0 +1,10 @@
+[
+    {
+        "_id": 1,
+        "nickname": "john_doe",
+        "email": "mail@mail.com",
+        "role": "admin",
+        "active": true,
+        "password": "1234"
+    }
+]
